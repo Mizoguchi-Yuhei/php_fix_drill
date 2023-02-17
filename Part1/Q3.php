@@ -9,5 +9,5 @@ switch($no) {
         break;
     default:
         echo "凶";
-        break;
+        // break;
 }
